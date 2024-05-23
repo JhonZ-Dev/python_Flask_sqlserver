@@ -28,7 +28,7 @@ python_flask_sqlserver/ <br>
 
 <h4>Sin Token</h4>
 
-![sintoken](https://github.com/JhonZ-Dev/python_Flask_sqlserver/assets/79710173/f787c50f-fedc-46e6-85d8-75ad456253d5
+![sintoken](https://github.com/JhonZ-Dev/python_Flask_sqlserver/assets/79710173/f787c50f-fedc-46e6-85d8-75ad456253d5)
 
 <h4>Con Token</h4>
 
